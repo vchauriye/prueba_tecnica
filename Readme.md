@@ -2,13 +2,13 @@
 
 ### Modo de Uso
 
-* Para inicializar el proyecto, ubicarse en el directorio de \Pokemon\pokemon_data\frontend y utilizar el comando `npm install`
+* Para inicializar el proyecto, ubicarse en el directorio de \pokemon_data\frontend y utilizar el comando `npm install`
 
-* Para correr el servidor de backend, ubicarse en el direcorio \Pokemon\pokemon_data y utilizar el comando `python .\manage.py runserver.`
+* Para correr el servidor de backend, ubicarse en el direcorio \pokemon_data y utilizar el comando `python .\manage.py runserver.`
 
-* Para correr el servidor de frontend, ubicarse en el directorio de \Pokemon\pokemon_data\frontend  y utilizar el comando `npm run server`
+* Para correr el servidor de frontend, ubicarse en el directorio de \pokemon_data\frontend  y utilizar el comando `npm run server`
 
-* Se utiliza el archivo pokemon_data\api\management\commands\migrate_data.py para poblar la base de datos con todos los pokemon. Para correr este comando se utiliza `python .\manage.py migrate_data` desde el directorio de \Pokemon\pokemon_data para poblar la base de datos con los pokemon
+* Se utiliza el archivo pokemon_data\api\management\commands\migrate_data.py para poblar la base de datos con todos los pokemon. Para correr este comando se utiliza `python .\manage.py migrate_data` desde el directorio de \pokemon_data para poblar la base de datos con los pokemon
 
 Las librerias instaladas fueron:
 
